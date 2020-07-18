@@ -22,4 +22,6 @@ El análisis incluye tres notebooks:
 2. Análisis ENMODO 2014.ipynb
 3. Análisis_comparativo.ipynb
 
+Link a la charla: https://youtu.be/d11rSTc0X5I
+
 Cualquier consulta o sugerencia: Sebastián Anapolsky, sanapolsky@gmail.com
